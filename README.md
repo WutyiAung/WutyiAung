@@ -15,7 +15,7 @@
   - Proficiency in operating systems for creating efficient computing environments
   - Database knowledge to design and manage data effectively
 
- - **Currently Exploring:**
+- **Currently Exploring:**
   - 🚀 Exploring cutting-edge technologies in the web development landscape
   - 📚 Deepening my understanding of database management and information security
 
@@ -24,7 +24,6 @@
 - 🚀 Strong problem-solving ability to tackle complex challenges
 - 🤝 Team player with a proactive and positive attitude
 - 📚 Quick learner, always eager to acquire new skills and knowledge
-
 
 #### Connect with Me
 - 📧 wutyiaung1132@gmail.com
