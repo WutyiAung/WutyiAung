@@ -15,9 +15,9 @@
   - Proficiency in operating systems for creating efficient computing environments
   - Database knowledge to design and manage data effectively
 
-#### Currently Exploring
-- 🚀 Exploring cutting-edge technologies in the web development landscape
-- 📚 Deepening my understanding of cloud computing and its applications
+ -**Currently Exploring:**
+  - 🚀 Exploring cutting-edge technologies in the web development landscape
+  - 📚 Deepening my understanding of database management and information security
 
 #### Soft Skills
 - 💬 Excellent communication skills for effective collaboration
